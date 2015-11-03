@@ -4,13 +4,15 @@ Created on 28. ruj 2015.
 @author: "Vedran Semenski"
 '''
 
+__author__ = 'Vedran Semenski <vedran.semenski@gmail.com>'
+
 import mysql.connector
 from mysql.connector import errorcode
 
 import datetime
 # from mysql.connector.cursor import MySQLCursorPrepared
 
-from com.srce.RADIUS.utils.Helper import HelperMethods
+from Helper import HelperMethods
 import Singleton
 
 class DatabaseException(Exception):

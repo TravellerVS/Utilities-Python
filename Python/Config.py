@@ -1,4 +1,4 @@
-__author__ = 'Vedran Semenski <vedran.semenski@srce.hr>'
+__author__ = 'Vedran Semenski <vedran.semenski@gmail.com>'
 
 import ConfigParser
 import Singleton

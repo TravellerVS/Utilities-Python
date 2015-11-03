@@ -1,6 +1,6 @@
-from com.srce.RADIUS.utils.Helper import HelperMethods
+from Helper import HelperMethods
 
-__author__ = 'Vedran Semenski<vedran.semenski@srce.hr>'
+__author__ = 'Vedran Semenski<vedran.semenski@gmail.com>'
 
 
 # Import smtplib for the actual sending function
