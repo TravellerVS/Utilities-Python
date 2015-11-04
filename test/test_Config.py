@@ -39,7 +39,7 @@ class ConfigTestCase(unittest.TestCase):
         self.assertIs(self.__ConfigHandler,conf2, "Singleton Problem, different calls do not result in the same instance")
 
     def test_logging(self):
-        initialize_log('project.log')
+        initialize_log('test.log')
         logging.info("running_test")
         logging.debug("running_test")
         logging.critical("running_test")
