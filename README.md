@@ -1,15 +1,22 @@
-# Utilities
+# Python common Utilities
 
 This repository houses generic functionality that is often used in many types of projects but is not included in the standard libraries of programming languages.
 
 
 ## Contributing to the project
 
-### SETUP
+#### SETUP:
+###### Install python modules (__[link](https://docs.python.org/2/install/)__):
+- run python setup.py install inside the project root to install required modules
+     
+###### Setup the unittests environment:
+- make a test.config file inside the /test directory
+    - copy the contents from the example.config
+    - check/modify the email, database and other settings
 
-    - make a test.config file inside the test directory
-    - add the /test/test.config file to the version control ignored list
-    - ignore all test.log files for version control
+###### Ignore files from version control:
+- add the /test/test.config file to the version control ignored list
+- ignore all test.log files for version control
 
 
 ## Development environment and used technologies
