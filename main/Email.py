@@ -7,8 +7,6 @@ __author__ = 'Vedran Semenski<vedran.semenski@gmail.com>'
 import smtplib
 from email.mime.text import MIMEText
 
-
-
 class EmailHandler(object):
     """
     The EmailHandler contains email related functionality.
