@@ -1,5 +1,5 @@
 '''
-Created on 28. ruj 2015.
+Created on 28. 9. 2015.
 
 @author: "Vedran Semenski"
 '''
@@ -9,7 +9,6 @@ __author__ = 'Vedran Semenski <vedran.semenski@gmail.com>'
 import mysql.connector
 from mysql.connector import errorcode
 
-import datetime
 # from mysql.connector.cursor import MySQLCursorPrepared
 
 from Helper import HelperMethods

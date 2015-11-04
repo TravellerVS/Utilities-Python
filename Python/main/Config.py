@@ -1,8 +1,10 @@
 __author__ = 'Vedran Semenski <vedran.semenski@gmail.com>'
 
 import ConfigParser
-import Singleton
 import ast
+
+import Singleton
+
 
 class ConfigHandler(object):
     """

@@ -1,7 +1,5 @@
 __author__ = 'Vedran Semenski <vedran.semenski@gmail.com>'
 
-
-
 class HelperMethods(object):
     """
     HelperMethods contans a group of mostly static methods that are designed to contain often used parts of code and have them under one place.
