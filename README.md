@@ -7,8 +7,8 @@ This repository houses generic functionality that is often used in many types of
 
 #### SETUP:
 
-###### Install python modules (__[link](https://docs.python.org/2/install/)__):
-- run python setup.py install inside the project root to install required modules
+###### Install python modules (__[Python2.7 official setup](https://docs.python.org/2/install/)__):
+- run ```python27 setup.py install``` inside the project root to install required modules
      
 ###### Setup the unittests environment:
 - make a test.config file inside the /test directory
