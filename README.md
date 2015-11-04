@@ -6,6 +6,7 @@ This repository houses generic functionality that is often used in many types of
 ## Contributing to the project
 
 #### SETUP:
+
 ###### Install python modules (__[link](https://docs.python.org/2/install/)__):
 - run python setup.py install inside the project root to install required modules
      
@@ -18,6 +19,7 @@ This repository houses generic functionality that is often used in many types of
 - add the /test/test.config file to the version control ignored list
 - ignore all test.log files for version control
 
+###### SETUP FINISHED
 
 ## Development environment and used technologies
 
